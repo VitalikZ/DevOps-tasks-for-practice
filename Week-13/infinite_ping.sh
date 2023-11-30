@@ -1,8 +1,5 @@
 #!/bin/bash
 
-# Replace 'nginx_service' with the service name of your Nginx server
-
-
 while true
 do
  # Use curl to send a request to the Nginx server and get the HTTP status code
