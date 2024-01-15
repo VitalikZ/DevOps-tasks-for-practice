@@ -7,3 +7,5 @@ This application is a simple REST API web-server, which gives you response "/", 
 If you done it right, you may check correct responses using **curl**: for example, your_server_ip:5000/hello must return message "Hello, World!"
 
 **Note**: before conterize this code, analyze it.
+
+**Note 2**: To startup your API, use following command: **uvicorn main:app --host 0.0.0.0 --port 5000**
