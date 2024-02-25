@@ -12,6 +12,6 @@ If you done it right, you may check correct responses using **curl**: for exampl
 
 **Note 3**: You also may check full functionality for this API if you open Swagger UI, you need to put in broswer your_server_ip:5000/docs
 
-- [] Task 1
-- [] Task 2
- -[] Task 3
+- [ ] Task 1
+- [ ] Task 2
+- [ ] Task 3
